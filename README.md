@@ -1,13 +1,13 @@
-Faith Lawino Owuor — Portfolio
+Faith Lawino Owuor- Portfolio
 
 Communications | Virtual Assistant | Customer Support | Sales & Business Development
 
-Live site: **https://[your-username].github.io/faith-lawino-portfolio/**
+Live site: **https://[your-username].github.io/faith-owuor-portfolio/**
 
 ## Structure
 
 ```
-faith-lawino-portfolio/
+faith-owuor-portfolio/
 ├── index.html                    ← Homepage
 ├── style.css                     ← Shared styles
 ├── virtual-assistant/index.html
